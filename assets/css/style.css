@@ -19,7 +19,6 @@ body {
 }
 
 .hero {
-  height: 30vh;
   background: linear-gradient(135deg, #3f3d56 0%, #2a2940 100%);
   color: white;
   display: flex;
@@ -62,6 +61,10 @@ body {
   margin-top: 1rem;
   color: #ffd54f;
   font-weight: 300;
+}
+
+main {
+  padding: 0 10px;
 }
 
 /* Sections */

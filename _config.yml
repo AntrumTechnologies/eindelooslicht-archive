@@ -25,6 +25,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://eindelooslicht.nl" # the base hostname & protocol for your site, e.g. http://example.com
 instagram: "https://instagram.com/eindelooslicht"
 
+static_form_api_key: "sf_eg7h3klah7bg2f21hnejmj3d"
 
 # Build settings
 theme: minima
